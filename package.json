@@ -1,0 +1,17 @@
+{
+  "name": "ytdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "plex-api": "^5.3.1",
+    "youtube-search": "^1.1.6",
+    "youtube-search-api": "^1.0.9",
+    "ytdl-core": "^4.5.0"
+  }
+}
